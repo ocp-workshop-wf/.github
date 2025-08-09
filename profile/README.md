@@ -34,7 +34,8 @@
 - **3.1** – [OpenShift Resources Overview](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module3#31-openshift-resources-overview)
 - **3.2** – [Application Deployment in OpenShift](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module3#32-openshift-and-how-to-deploy-applications)
 - **3.3** - [Resource Quotas and Limits](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module3#33-resource-quotas-and-limits)
-- **3.4** – [OpenShift Networking](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module3#34-openshift-networking)  
+- **3.4** - [OpenShift Volumes](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module3#34-openshift-volumes)
+- **3.5** – [OpenShift Networking](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module3#35-openshift-networking)  
 
 ---
 
@@ -51,9 +52,8 @@
 ### 🔹 [Module 5](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module5): Advanced Deployment Options
 
 - **5.1** – [Deployment Strategies](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module5#51-deployment-strategies) 
-- **5.2** – [OpenShift Storage and Volumes](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module5#52-openshift-volumes)
-- **5.3** – [Scaling and Debugging Applications](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module5#53-scaling-and-debuging-your-application)
-- **5.4** – [OpenShift Jobs](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module5#openshift-jobs)
+- **5.2** – [Scaling and Debugging Applications](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module5#53-scaling-and-debuging-your-application)
+- **5.3** – [OpenShift Jobs](https://github.com/ocp-workshop-wf/bootcamp/tree/main/module5#openshift-jobs)
 
 ---
 
